@@ -1,0 +1,54 @@
+{
+    "chart": {
+        "plotBackgroundColor": null,
+        "plotShadow": false
+    },
+    "credits": {
+        "enabled": false
+    },
+    "title": {
+        "text": ""
+    },
+    "tooltip": {},
+    "plotOptions": {
+        "pie": {
+            "allowPointSelect": true,
+            "cursor": "pointer",
+            "dataLabels": {
+                "enabled": true,
+                "style": {
+                    "color": "black"
+                }
+            },
+            "size": "100%"
+        }
+    },
+    "series": [
+        {
+            "type": "pie",
+            "name": "Impressions",
+            "data": [
+                {
+                    "name": "Desktop (High Impact)",
+                    "y": 2946711
+                },
+                {
+                    "name": "AV - Pre-Roll Desktop",
+                    "y": 2593434
+                },
+                {
+                    "name": "CTV Thermostat",
+                    "y": 1455174
+                },
+                {
+                    "name": "Mobile In-App (All Counties)",
+                    "y": 1055636
+                },
+                {
+                    "name": "Mobile Web (Zip)",
+                    "y": 1009877
+                }
+            ]
+        }
+    ]
+}

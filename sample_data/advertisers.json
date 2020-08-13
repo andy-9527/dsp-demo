@@ -1,0 +1,47 @@
+[
+  {
+    "advertiser_name": "BMW",
+    "advertiser_brand": "BMW",
+    "web_site_url": "http://www.bmw.com.cn",
+    "business_licence_url": "http://img1.imgtn.bdimg.com/it/u=3612275754,1123219037&fm=27&gp=0.jpg",
+    "industry": "car",
+    "account_id": "1",
+    "status": "active"
+  },
+  {
+    "advertiser_name": "TCL",
+    "advertiser_brand": "TCL",
+    "web_site_url": "http://www.tcl.com",
+    "business_licence_url": "http://img1.imgtn.bdimg.com/it/u=3612275754,1123219037&fm=27&gp=0.jpg",
+    "industry": "televisions",
+    "account_id": "1",
+    "status": "active"
+  },
+  {
+    "advertiser_name": "JD",
+    "advertiser_brand": "JD",
+    "web_site_url": "http://www.jd.com",
+    "business_licence_url": "http://img1.imgtn.bdimg.com/it/u=3612275754,1123219037&fm=27&gp=0.jpg",
+    "industry": "electronic_commerce",
+    "account_id": "1",
+    "status": "active"
+  },
+  {
+    "advertiser_name": "MI",
+    "advertiser_brand": "MI",
+    "web_site_url": "http://www.mi.com",
+    "business_licence_url": "http://img1.imgtn.bdimg.com/it/u=3612275754,1123219037&fm=27&gp=0.jpg",
+    "industry": "mobile",
+    "account_id": "1",
+    "status": "active"
+  },
+  {
+    "advertiser_name": "Lenovo",
+    "advertiser_brand": "Lenovo",
+    "web_site_url": "http://www.Lenovo.com",
+    "business_licence_url": "http://img1.imgtn.bdimg.com/it/u=3612275754,1123219037&fm=27&gp=0.jpg",
+    "industry": "computer",
+    "account_id": "1",
+    "status": "active"
+  }
+]

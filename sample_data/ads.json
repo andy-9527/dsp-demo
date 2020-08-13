@@ -1,0 +1,37 @@
+[
+  {
+    "ad_name": "BMW 6",
+    "ad_type": "Standard Pre-roll",
+    "thumbnail": "../../../assets/img/bmw6.png",
+    "status": "Active",
+    "audit_status": "Rejected"
+  },
+  {
+    "ad_name": "BMW 7",
+    "ad_type": "Standard preroll",
+    "thumbnail": "../../../assets/img/bmw7.png",
+    "status": "Inactive",
+    "audit_status": "Pending"
+  },
+  {
+    "ad_name": "BMW X",
+    "ad_type": "Standard preroll",
+    "thumbnail": "../../../assets/img/bmwx.png",
+    "status": "Active",
+    "audit_status": "Approved"
+  },
+  {
+    "ad_name": "BMW M",
+    "ad_type": "Standard preroll",
+    "thumbnail": "../../../assets/img/bmwm.png",
+    "status": "Active",
+    "audit_status": "Rejected"
+  },
+  {
+    "ad_name": "BMW i",
+    "ad_type": "Standard preroll",
+    "thumbnail": "../../../assets/img/bmwi.png",
+    "status": "Active",
+    "audit_status": "Approved"
+  }
+]

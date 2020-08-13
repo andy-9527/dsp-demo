@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Nokia",
+    "status": "active",
+    "type": "Self-Service",
+    "timezone": "America/Los_Angeles",
+    "currency": "USD"
+  },
+  {
+    "name": "ChangHong TV",
+    "status": "inactive",
+    "type": "Self-Service",
+    "timezone": "Asia/Shanghai",
+    "currency": "RMB"
+  },
+  {
+    "name": "IBM",
+    "status": "active",
+    "type": "Self-Service",
+    "timezone": "America/Los_Angeles",
+    "currency": "USD"
+  },
+  {
+    "name": "小米手机",
+    "status": "active",
+    "type": "Self-Service",
+    "timezone": "Asia/Shanghai",
+    "currency": "RMB"
+  },
+  {
+    "name": "TCL",
+    "status": "inactive",
+    "type": "Self-Service",
+    "timezone": "America/Los_Angeles",
+    "currency": "USD"
+  },
+  {
+    "name": "华硕电脑",
+    "status": "inactive",
+    "type": "Self-Service",
+    "timezone": "Asia/Shanghai",
+    "currency": "RMB"
+  },
+  {
+    "name": "中国电信",
+    "status": "active",
+    "type": "Self-Service",
+    "timezone": "Asia/Shanghai",
+    "currency": "RMB"
+  },
+  {
+    "name": "中国工商银行",
+    "status": "active",
+    "type": "Self-Service",
+    "timezone": "America/Los_Angeles",
+    "currency": "RMB"
+  },
+  {
+    "name": "Facebook",
+    "status": "inactive",
+    "type": "Self-Service",
+    "timezone": "America/Los_Angeles",
+    "currency": "USD"
+  },
+  {
+    "name": "Snapchat",
+    "status": "inactive",
+    "type": "Self-Service",
+    "timezone": "America/Los_Angeles",
+    "currency": "USD"
+  },
+  {
+    "name": "UKAS",
+    "status": "inactive",
+    "type": "Self-Service",
+    "timezone": "America/Los_Angeles",
+    "currency": "USD"
+  },
+  {
+    "name": "CAS",
+    "status": "inactive",
+    "type": "Self-Service",
+    "timezone": "America/Los_Angeles",
+    "currency": "USD"
+  },
+  {
+    "name": "Nike",
+    "status": "inactive",
+    "type": "Self-Service",
+    "timezone": "America/Los_Angeles",
+    "currency": "USD"
+  },
+  {
+    "name": "中国建设银行",
+    "status": "inactive",
+    "type": "Self-Service",
+    "timezone": "America/Los_Angeles",
+    "currency": "RMB"
+  }
+]

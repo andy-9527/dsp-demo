@@ -1,0 +1,109 @@
+[
+    {
+        "name": "impressions",
+        "displayName": "Impressions",
+        "show": true
+    },
+    {
+        "name": "views",
+        "displayName": "Views",
+        "show": true
+    },
+    {
+        "name": "clicks",
+        "displayName": "Total Ad Clicks",
+        "show": true
+    },
+    {
+        "name": "spend",
+        "displayName": "Total Net Spend"
+    },
+    {
+        "name": "cpm",
+        "displayName": "Net CPM"
+    },
+    {
+        "name": "ctr",
+        "displayName": "Click Through Rate"
+    },
+    {
+        "name": "completions_25",
+        "displayName": "25% Completions"
+    },
+    {
+        "name": "completions_50",
+        "displayName": "50% Completions"
+    },
+    {
+        "name": "completions_75",
+        "displayName": "75% Completions"
+    },
+    {
+        "name": "completions_100",
+        "displayName": "100% Completions"
+    },
+    {
+        "name": "pct_completions_25",
+        "displayName": "25% Completion Rate"
+    },
+    {
+        "name": "pct_completions_50",
+        "displayName": "50% Completion Rate"
+    },
+    {
+        "name": "pct_completions_75",
+        "displayName": "75% Completion Rate"
+    },
+    {
+        "name": "pct_completions_100",
+        "displayName": "100% Completion Rate"
+    },
+    {
+        "name": "conversions_impression",
+        "displayName": "Impression Conversions"
+    },
+    {
+        "name": "conversions_click",
+        "displayName": "Click Conversions"
+    },
+    {
+        "name": "conversions_total",
+        "displayName": "Total Conversions"
+    },
+    {
+        "name": "impression_conversions_rate",
+        "displayName": "Impression Conversion Rate (%)"
+    },
+    {
+        "name": "click_conversions_rate",
+        "displayName": "Click Conversion Rate (%)"
+    },
+    {
+        "name": "conversions_rate",
+        "displayName": "Conversion Rate (%)"
+    },
+    {
+        "name": "mobile_installs",
+        "displayName": "Mobile App Installs"
+    },
+    {
+        "name": "mobile_installs_ios",
+        "displayName": "Mobile App Install - iOS"
+    },
+    {
+        "name": "mobile_installs_android",
+        "displayName": "Mobile App Install - Android"
+    },
+    {
+        "name": "mobile_app_rate",
+        "displayName": "Mobile App Rate (%)"
+    },
+    {
+        "name": "bid_rate",
+        "displayName": "Bid Rate (%)"
+    },
+    {
+        "name": "win_rate",
+        "displayName": "Win Rate (%)"
+    }
+]

@@ -1,0 +1,192 @@
+{
+    "colors": [
+        "#0191c6"
+    ],
+    "chart": {
+        "backgroundColor": "#E9F1F7",
+        "type": "column",
+        "className": "frequency-chart",
+        "marginLeft": 48,
+        "marginRight": 12,
+        "height": 350
+    },
+    "title": {
+        "align": "left",
+        "text": "",
+        "style": {
+            "color": "#5A5A5A",
+            "font": "bold 16px Arial, Helvetica, sans-serif"
+        },
+        "x": 10,
+        "y": 15
+    },
+    "xAxis": {
+        "type": "category",
+        "title": {
+            "text": "Frequency"
+        },
+        "labels": {
+            "rotation": -90,
+            "style": {
+                "color": "#5A5A5A",
+                "font": "normal 13px Arial, Helvetica, sans-serif"
+            }
+        },
+        "lineWidth": 0,
+        "offset": 0,
+        "tickLength": 0,
+        "tickmarkPlacement": "on"
+    },
+    "yAxis": {
+        "min": 0,
+        "max": 72319,
+        "title": {
+            "x": -10,
+            "text": "Unique Users",
+            "align": "middle"
+        },
+        "labels": {
+            "x": -10,
+            "y": 12,
+            "align": "left",
+            "style": {
+                "font-size": "9px"
+            },
+            "enabled": true
+        },
+        "gridLineColor": "#C4DFEC",
+        "tickPixelInterval": 30,
+        "tickLength": 35,
+        "tickWidth": 1,
+        "tickColor": "#C4DFEC"
+    },
+    "legend": {
+        "enabled": false
+    },
+    "credits": {
+        "enabled": false
+    },
+    "series": [
+        {
+            "name": "Frequency",
+            "data": [
+                {
+                    "name": 1,
+                    "x": 1,
+                    "y": 72318
+                },
+                {
+                    "name": 2,
+                    "x": 2,
+                    "y": 25723
+                },
+                {
+                    "name": 3,
+                    "x": 3,
+                    "y": 13344
+                },
+                {
+                    "name": 4,
+                    "x": 4,
+                    "y": 8443
+                },
+                {
+                    "name": 5,
+                    "x": 5,
+                    "y": 5715
+                },
+                {
+                    "name": 6,
+                    "x": 6,
+                    "y": 4203
+                },
+                {
+                    "name": 7,
+                    "x": 7,
+                    "y": 3299
+                },
+                {
+                    "name": 8,
+                    "x": 8,
+                    "y": 2578
+                },
+                {
+                    "name": 9,
+                    "x": 9,
+                    "y": 1974
+                },
+                {
+                    "name": 10,
+                    "x": 10,
+                    "y": 1688
+                },
+                {
+                    "name": 11,
+                    "x": 11,
+                    "y": 1435
+                },
+                {
+                    "name": 12,
+                    "x": 12,
+                    "y": 1093
+                },
+                {
+                    "name": 13,
+                    "x": 13,
+                    "y": 1018
+                },
+                {
+                    "name": 14,
+                    "x": 14,
+                    "y": 873
+                },
+                {
+                    "name": 15,
+                    "x": 15,
+                    "y": 732
+                },
+                {
+                    "name": 16,
+                    "x": 16,
+                    "y": 665
+                },
+                {
+                    "name": 17,
+                    "x": 17,
+                    "y": 553
+                },
+                {
+                    "name": 18,
+                    "x": 18,
+                    "y": 480
+                },
+                {
+                    "name": 19,
+                    "x": 19,
+                    "y": 452
+                },
+                {
+                    "name": 20,
+                    "x": 20,
+                    "y": 387
+                }
+            ],
+            "_colorIndex": 0
+        }
+    ],
+    "tooltip": {
+        "pointFormat": "<span>{series.name}</span>: <b>{point.y}{point.symbol}</b><br/>{point.extra}"
+    },
+    "exporting": {
+        "enabled": false
+    },
+    "plotOptions": {
+        "bar": {
+            "color": "#0191c6",
+            "minPointLength": 3
+        },
+        "series": {
+            "borderWidth": 0
+        }
+    }
+}

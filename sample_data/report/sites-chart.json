@@ -1,0 +1,58 @@
+{
+    "title": {
+        "text": null
+    },
+    "exporting": {
+        "enabled": true
+    },
+    "plotOptions": {
+        "series": {
+            "dataLabels": {
+                "enabled": true,
+                "distance": -30,
+                "format": "{point.percentage:.1f} %",
+                "color": "white"
+            },
+            "showInLegend": true
+        }
+    },
+    "tooltip": {},
+    "legend": {
+        "align": "right",
+        "verticalAlign": "middle",
+        "layout": "vertical",
+        "borderWidth": 2,
+        "borderColor": "#CCDFEE"
+    },
+    "credits": {
+        "enabled": false
+    },
+    "series": [
+        {
+            "type": "pie",
+            "name": "Impressions",
+            "data": [
+                {
+                    "name": "v.qq.com",
+                    "y": 291921
+                },
+                {
+                    "name": "iqiyi.com",
+                    "y": 168130
+                },
+                {
+                    "name": "youku.com",
+                    "y": 89117
+                },
+                {
+                    "name": "sohu.com",
+                    "y": 38658
+                },
+                {
+                    "name": "le.com",
+                    "y": 36907
+                }
+            ]
+        }
+    ]
+}

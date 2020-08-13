@@ -1,0 +1,58 @@
+[
+  {
+    "campaign_name": "BWM-Q1-2020",
+    "advertiser_id": "1",
+    "budget_cap": "500000",
+    "fee_type": "",
+    "fee_value": "",
+    "customer_po": "XHKMX-101",
+    "sales_person": "1",
+    "cs_member": "1",
+    "timezone": "Asia/Shanghai",
+    "start_date": "2020-01-01",
+    "end_date": "2020-04-01",
+    "status": "active"
+  },
+  {
+    "campaign_name": "BWM-Q2-2020",
+    "advertiser_id": "1",
+    "budget_cap": "400000",
+    "fee_type": "",
+    "fee_value": "",
+    "customer_po": "XHKMX-101",
+    "sales_person": "1",
+    "cs_member": "1",
+    "timezone": "Asia/Shanghai",
+    "start_date": "2020-04-01",
+    "end_date": "2020-07-01",
+    "status": "active"
+  },
+  {
+    "campaign_name": "BWM-Q3-2020",
+    "advertiser_id": "1",
+    "budget_cap": "400000",
+    "fee_type": "",
+    "fee_value": "",
+    "customer_po": "XHKMX-101",
+    "sales_person": "1",
+    "cs_member": "1",
+    "timezone": "Asia/Shanghai",
+    "start_date": "2020-07-01",
+    "end_date": "2020-10-01",
+    "status": "active"
+  },
+  {
+    "campaign_name": "BWM-Q4-2020",
+    "advertiser_id": "1",
+    "budget_cap": "800000",
+    "fee_type": "",
+    "fee_value": "",
+    "customer_po": "XHKMX-101",
+    "sales_person": "1",
+    "cs_member": "1",
+    "timezone": "Asia/Shanghai",
+    "start_date": "2020-10-01",
+    "end_date": "2021-01-01",
+    "status": "active"
+  }
+]

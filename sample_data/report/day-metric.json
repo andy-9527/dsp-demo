@@ -1,0 +1,76 @@
+{
+    "chart": {
+        "type": "area"
+    },
+    "title": {
+        "text": ""
+    },
+    "credits": {
+        "enabled": false
+    },
+    "legend": {
+        "enabled": false
+    },
+    "xAxis": {
+        "type": "datetime",
+        "allowDecimals": false,
+        "dataLabels": {
+            "enabled": false
+        }
+    },
+    "yAxis": {
+        "title": {
+            "text": ""
+        },
+        "labels": {}
+    },
+    "plotOptions": {
+        "area": {
+            "pointStart": 1514822400000,
+            "pointInterval": 86400000,
+            "enabled": false,
+            "marker": {
+                "enabled": false,
+                "symbol": "circle",
+                "radius": 2,
+                "states": {
+                    "hover": {
+                        "enabled": true
+                    }
+                }
+            }
+        }
+    },
+    "series": [
+        {
+            "name": "Impressions",
+            "data": [
+                100000,
+                111000,
+                122000,
+                133000,
+                144000,
+                113000,
+                110000,
+                120000,
+                120000,
+                100000,
+                110000,
+                100000,
+                100000,
+                150000,
+                100000,
+                100000,
+                140000,
+                130000,
+                120000,
+                110000,
+                80000,
+                90000,
+                120000,
+                110000,
+                150000
+            ]
+        }
+    ]
+}
